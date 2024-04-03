@@ -1,0 +1,27 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Digitized data copyright Google Corporation © 2006
+FontName Droid Sans Fallback
+FontSubfamily Regular
+UniqueID Ascender - Droid Sans Fallback
+FullName Droid Sans Fallback
+Version Version 2.00
+PostScriptName DroidSansFallback
+Trademark Droid is a trademark of Google and may be registered in certain jurisdictions.
+Manufacturer Ascender Corporation
+Designer Steve Matteson
+Description Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communications.
+FontVendorURL http://www.ascendercorp.com/
+FontDesignerURL http://www.ascendercorp.com/typedesigners.html
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 51
+UnderlinePosition -78
+FontHeightOffset 0
+Ascender 1043
+Descender -266
+FontBBox -90 -266 1121 1043
+EndFontMetrics
